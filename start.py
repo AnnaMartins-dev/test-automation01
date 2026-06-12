@@ -2,7 +2,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 
 from src.github_output.default import get_default_options
-from steps import get_google_title
+from src.github_output.google_automation.steps import get_google_title
 
 
 def start_webdriver():
