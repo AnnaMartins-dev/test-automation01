@@ -1,6 +1,3 @@
-from selenium.webdriver.chrome.options import Options
-from selenium import webdriver
-
 from .steps import get_google_title
 
 

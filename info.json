@@ -1,0 +1,3 @@
+{
+  "entrypoint": "test_automation01.start:start_automation"
+}
